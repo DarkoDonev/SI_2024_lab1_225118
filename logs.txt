@@ -1,0 +1,96 @@
+commit 4df9ca2d5e7f95f970483c06080043381b6d3541 (HEAD -> bug1, origin/bug1)
+Author: Darko Donev <thedarkodonev@gmail.com>
+Date:   Tue Mar 19 23:30:55 2024 +0100
+
+    Call method filterOddLengthStrings in main class
+
+commit f8455acc8cf8535e81bbd912d356b1e85bdc51e7
+Author: Darko Donev <thedarkodonev@gmail.com>
+Date:   Tue Mar 19 23:22:22 2024 +0100
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit d5195e4ecbe98c9567d5d67c5e3ccd7a270bc9b1
+Author: Darko Donev <thedarkodonev@gmail.com>
+Date:   Tue Mar 19 23:14:05 2024 +0100
+
+    Add starter code
+
+commit c2028720a3d1b056d6df86343b11b1bd0821b950
+Author: Darko Donev <thedarkodonev@gmail.com>
+Date:   Tue Mar 19 23:10:21 2024 +0100
+
+    Initial commit.
+/////////////////////////////////////
+commit eaafac29245ed71929653961e03273211f56c6a1 (HEAD -> bug2, origin/master, origin/bug2, master)
+Author: Darko Donev <thedarkodonev@gmail.com>
+Date:   Tue Mar 19 23:41:53 2024 +0100
+
+    Call method makeBigStringFrom in main class
+
+commit 2c8267b6e0408d5f5cc5f70c7c02081087d63ce4
+Author: Darko Donev <thedarkodonev@gmail.com>
+Date:   Tue Mar 19 23:25:33 2024 +0100
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 4df9ca2d5e7f95f970483c06080043381b6d3541 (origin/bug1, bug1)
+Author: Darko Donev <thedarkodonev@gmail.com>
+Date:   Tue Mar 19 23:30:55 2024 +0100
+
+    Call method filterOddLengthStrings in main class
+
+commit f8455acc8cf8535e81bbd912d356b1e85bdc51e7
+Author: Darko Donev <thedarkodonev@gmail.com>
+Date:   Tue Mar 19 23:22:22 2024 +0100
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit d5195e4ecbe98c9567d5d67c5e3ccd7a270bc9b1
+Author: Darko Donev <thedarkodonev@gmail.com>
+Date:   Tue Mar 19 23:14:05 2024 +0100
+
+    Add starter code
+
+commit c2028720a3d1b056d6df86343b11b1bd0821b950
+Author: Darko Donev <thedarkodonev@gmail.com>
+Date:   Tue Mar 19 23:10:21 2024 +0100
+
+    Initial commit.
+///////////////////////////////////////
+commit eaafac29245ed71929653961e03273211f56c6a1 (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: Darko Donev <thedarkodonev@gmail.com>
+Date:   Tue Mar 19 23:41:53 2024 +0100
+
+    Call method makeBigStringFrom in main class
+
+commit 2c8267b6e0408d5f5cc5f70c7c02081087d63ce4
+Author: Darko Donev <thedarkodonev@gmail.com>
+Date:   Tue Mar 19 23:25:33 2024 +0100
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 4df9ca2d5e7f95f970483c06080043381b6d3541 (origin/bug1, bug1)
+Author: Darko Donev <thedarkodonev@gmail.com>
+Date:   Tue Mar 19 23:30:55 2024 +0100
+
+    Call method filterOddLengthStrings in main class
+
+commit f8455acc8cf8535e81bbd912d356b1e85bdc51e7
+Author: Darko Donev <thedarkodonev@gmail.com>
+Date:   Tue Mar 19 23:22:22 2024 +0100
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit d5195e4ecbe98c9567d5d67c5e3ccd7a270bc9b1
+Author: Darko Donev <thedarkodonev@gmail.com>
+Date:   Tue Mar 19 23:14:05 2024 +0100
+
+    Add starter code
+
+commit c2028720a3d1b056d6df86343b11b1bd0821b950
+Author: Darko Donev <thedarkodonev@gmail.com>
+Date:   Tue Mar 19 23:10:21 2024 +0100
+
+    Initial commit.
+/////////////////////////////////////////////
